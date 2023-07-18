@@ -1,10 +1,10 @@
 // 'use strict';
 
-const key = 'db9293026e00855f3c797bd25715ada0';
+const api_key = 'db9293026e00855f3c797bd25715ada0';
 
 export const fetchData = function(URL,callback)
 {
-    fetch(`${URL}&appid=${key}`)
+    fetch(`${URL}&appid=${api_key}`)
         .then(res => res.json())
         .then(data => callback(data))
 }
