@@ -1,4 +1,4 @@
-'use strict';
+// 'use strict';
 
 export const weekDayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 

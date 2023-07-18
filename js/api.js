@@ -1,4 +1,4 @@
-'use strict';
+// 'use strict';
 
 const key = 'db9293026e00855f3c797bd25715ada0';
 
